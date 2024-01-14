@@ -15,7 +15,10 @@ header .available {
 header #api_status {
 	background-color: #cccccc;
 	border-radius: 50%;
-	width:40px;
-	height:40px;
-	right:30px;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 5%;
+	right: 30px;
+	transform: translateY(-50%);
 }
